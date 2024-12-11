@@ -1,0 +1,6 @@
+Get Image By FileName:- http://localhost:8080/books/view?fileName=AmbedhkarLibrary_COMPUTER HARDWARE AND SOFTWARE ( PDFDrive ).pdf
+Post image :- http://localhost:8080/books/upload
+Get All Books:- http://localhost:8080/books
+Get Book By bookId :- http://localhost:8080/books/4
+Put(Update) Book details by bookId :- http://localhost:8080/books/update/1
+Delete book by bookId :- http://localhost:8080/books/4
